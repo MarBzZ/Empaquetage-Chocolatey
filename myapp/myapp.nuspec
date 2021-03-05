@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    
+    <id>myapp</id>
+    <version>1.0</version>
+    <title>MyApp (Install)</title>
+    <authors>Brandon Marceau</authors>
+    <description>This is a free app that simple tells you hello </description>
+         
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
